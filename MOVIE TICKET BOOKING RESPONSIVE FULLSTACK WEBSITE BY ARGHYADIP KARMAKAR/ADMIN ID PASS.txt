@@ -1,0 +1,6 @@
+Default Admin Email- admin@admin.com	
+Default Password- Admin@123
+
+
+
+Movie Ticket Booking Website (Arghyadip Karmakar)
